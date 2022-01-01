@@ -1,7 +1,7 @@
 # RapidWeaver useful links
 Here’s a list of ‘Blank’ theme approaches:
 
-##Top 3
+## Top 3
 
 Foundation 6 - https://www.weavers.space/stacks/foundation 
 Immensely capable, very well supported, **very steep learning curve (complex,poor documented)**. Stacks based on Foundation 6 from Zurb foundation.
