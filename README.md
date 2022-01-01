@@ -2,7 +2,7 @@
 Here’s a list of ‘Blank’ theme approaches: No particular recommendations here as I certainly haven’t tried them all - and no guarantees they are all still supported! It’s just a list.
 
 Foundation 6 - https://www.weavers.space/stacks/foundation 
-Immensely capable, very well supported, **very steep learning curve (complex,poor documented) **. Stacks based on Foundation 6 from Zurb foundation.
+Immensely capable, very well supported, **very steep learning curve (complex,poor documented)**. Stacks based on Foundation 6 from Zurb foundation.
 
 Foundry - https://foundry.elixirgraphics.com 
 Has a lot of fans - well established, well supported. Overall the best of all.
